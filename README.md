@@ -3,7 +3,7 @@
 A modern web-based controller for the **Kingsmith WalkingPad** treadmill using the **Web Bluetooth API**. This is a complete React rewrite of the original [QWalkingPad](https://github.com/DorianRudolph/QWalkingPad) desktop application.
 
 ![WalkingPad Web Controller](screenshot.png)
-
+ 
 ## ✨ Features
 
 
