@@ -6,6 +6,7 @@ A modern web-based controller for the **Kingsmith WalkingPad** treadmill using t
 
 ## ✨ Features
 
+
 - **🔗 Web Bluetooth Connection** - Connect to your WalkingPad directly from your browser
 - **🔄 Auto-Reconnect** - Automatically reconnects when connection is lost
 - **📊 Real-time Statistics** - Live speed, time, distance, and step count
