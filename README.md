@@ -1,19 +1,18 @@
-# AI-WalkingPad
+# AI-WalkingPad 🐻
 
-A modern web-based controller for the **Kingsmith WalkingPad** treadmill using the **Web Bluetooth API**. This is a complete React rewrite of the original [QWalkingPad](https://github.com/DorianRudolph/QWalkingPad) desktop application.
-
-![WalkingPad Web Controller](screenshot.png)
+A premium, cozy web-based controller for the **Kingsmith WalkingPad** treadmill using the **Web Bluetooth API**. This application features a unique **Bear Aesthetic** with a widget-style layout, English localization, and robust auto-reconnection.
 
 ## ✨ Features
 
-- **🔗 Web Bluetooth Connection** - Connect to your WalkingPad directly from your browser
-- **🔄 Auto-Reconnect** - Automatically reconnects when connection is lost
-- **📊 Real-time Statistics** - Live speed, time, distance, and step count
-- **🎚️ Precision Speed Control** - Set speed in 0.1 km/h increments (not possible with the official app!)
+- **🐾 Bear Aesthetic** - A cozy, widget-based UI with soft tones and cute bear illustrations
+- **🔗 Web Bluetooth Connection** - Connect to your WalkingPad R1 Pro directly from your browser
+- **🔄 Persistent Auto-Reconnect** - Automatically watches for your device and reconnects when it wakes up
+- **📊 Widget-Style Stats** - Beautiful widgets for speed, time, distance, and step count
+- **🎚️ Precision Speed Control** - Set speed in 0.1 km/h increments with a modern bear-themed slider
 - **🔄 Mode Switching** - Easy switching between Sleep, Manual, and Auto modes
 - **⚙️ Device Settings** - Configure sensitivity, auto-start, max speed, and units
-- **📱 Responsive Design** - Works on desktop and mobile devices
-- **🎨 Modern UI** - Beautiful dark theme with glassmorphism and smooth animations
+- **📱 Mobile-First Design** - Fully responsive bottom-navigation layout designed for phones
+- **🖥️ Desktop Optimization** - Adaptive side-by-side widget layout for larger screens
 
 ## 🚀 Quick Start
 
@@ -24,7 +23,7 @@ Visit the hosted version at: [Coming Soon]
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/AI-WalkingPad.git
+git clone https://github.com/pixellos/AI-WalkingPad.git
 cd AI-WalkingPad
 
 # Install dependencies
